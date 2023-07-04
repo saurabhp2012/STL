@@ -1,0 +1,19 @@
+.DS_Store
+
+# Executables
+*.exe
+*.out
+*main
+*a
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+##### VisualStudioCode
+*.vscode/
+
+
+#debug
+*.dSYM
